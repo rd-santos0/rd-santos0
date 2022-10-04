@@ -18,4 +18,4 @@ Amapaense, tenho 29 anos.
 
 ## Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rd-santos0&repo=reginaldo-santos.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rd-santos0&repo=reginaldo-santos.github.io&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
