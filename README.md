@@ -5,6 +5,8 @@ Meu nome é Reginaldo Santos, Quero ser um Desenvolvedor Full Stack.
 
 Amapaense, tenho 29 anos.
 
+<div>
+
  ![Snake animation](https://github.com/rd-santos0/rd-santos0/blob/output/github-contribution-grid-snake.svg)
 
 ## Habilidade
@@ -21,3 +23,5 @@ Amapaense, tenho 29 anos.
 ## Projetos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rd-santos0&repo=reginaldo-santos.github.io&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
