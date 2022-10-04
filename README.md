@@ -1,7 +1,7 @@
 ### Olá 👋
 
 # Biografia
-Meu nome é Reginaldo Santos, Quero ser um Dev Desenvolvedor Full Stack.
+Meu nome é Reginaldo Santos, Quero ser um Desenvolvedor Full Stack.
 
 Amapaense, tenho 29 anos.
 
