@@ -17,8 +17,11 @@ Amapaense, tenho 29 anos.
 
 ## GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rd-santos0&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rd-santos0&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ <div align="center">
+  <a href="https://github.com/rd-santos0">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rd-santos0&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rd-santos0&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
 ## Projetos
 
